@@ -1,8 +1,8 @@
 ## Fala meu querido! Eu sou o Eduardo Pereira. 
  <div>
-  <a href="https://github.com/eduardosilvapereira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardosilvapereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosilvapereira&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/>
+  <a href="https://github.com/silvapereiraeduardo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvapereiraeduardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvapereiraeduardo&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
