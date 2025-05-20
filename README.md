@@ -1,22 +1,33 @@
-## Fala meu querido! Eu sou o Eduardo Pereira. 
- <div>
-  <a href="https://github.com/silvapereiraeduardo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvapereiraeduardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvapereiraeduardo&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/>
-  </a>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="dudu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="dudu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="dudu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="dudu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="dudu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UC7SVwjtPmHPMtbBb_MtKIow" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href = "mailto:silvapereiraeduardo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardo-silva-pereira-7945026b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+# 👋 Fala meu querido! Eu sou o Eduardo Pereira.
+
+Sou desenvolvedor de software com mais de 9 anos de experiência, especializado em aplicações Front-End e Mobile. Atualmente atuo como Desenvolvedor Mobile Pleno na Compass UOL, contribuindo no desenvolvimento de uma aplicação financeira de grande escala, com foco em performance, manutenibilidade e escalabilidade.
+
+## 🚀 Experiência
+
+- **Compass UOL (2023 - atualmente)**  
+  Desenvolvimento front-end de aplicação mobile com grande volume de usuários. Atuação com React Native, TypeScript, Zustand, Vite, Jest/Vitest, e integrações com APIs RESTful. Responsável por code reviews, criação de CLIs, automações, e acompanhamento completo de tarefas (refinamento, desenvolvimento e deploy).
+
+- **Digifred (2020 - 2022)**  
+  Participação na criação de novos produtos para gestão pública. Desenvolvimento de aplicativos em React Native, sistemas com Angular, treinamentos técnicos, e reuniões estratégicas de planejamento.
+
+- **Object Edge (2016 - 2020)**  
+  Desenvolvimento de widgets para Oracle Commerce Cloud utilizando JavaScript, Knockout, LESS, CSS, entre outras tecnologias. Evoluí de Programador Júnior a Desenvolvedor Front-End 4, com foco em soluções escaláveis para e-commerce.
+
+- **Reweb (2015 - 2016)**  
+  Desenvolvimento de sistemas com CodeIgniter e WordPress. Atuação com HTML5, CSS3, Bootstrap, jQuery e AJAX.
+
+## 🧠 Formação
+
+- **ULBRA – Universidade Luterana do Brasil**  
+  Tecnólogo em Análise e Desenvolvimento de Sistemas (2015 – 2020)
+
+## ⚙️ Tecnologias e Ferramentas
+
+- **Linguagens e Frameworks:** JavaScript, TypeScript, React, React Native, Angular, Node.js, Zustand, Redux  
+- **Ferramentas e práticas:** Git, Vite, Vitest, Jest, DevOps, Metodologias Ágeis, Code Review, Clean Code, CLI tools  
+- **Outros:** RESTful APIs, CSS3, HTML5, Knockout, Bootstrap, LESS
+
+---
+
+💬 Sempre em busca de aprender, compartilhar conhecimento e contribuir com soluções inteligentes para problemas reais. Fique à vontade para explorar meus repositórios ou entrar em contato!
+
